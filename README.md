@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-cstraw2021
 
 Running at: <https://jpa03-cstraw2021.dokku-06.cs.ucsb.edu/>
 
